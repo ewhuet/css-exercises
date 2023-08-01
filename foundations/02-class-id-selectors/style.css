@@ -10,3 +10,14 @@ p {
 .num3 {
     font-size: 24px;
 }
+
+#num2 {
+    color: rgb(17, 17, 236);
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: rgb(103, 242, 103);
+    font-size: 24px;
+    font-weight: bold;
+}
