@@ -1,10 +1,6 @@
-p {
+.odd {
     background-color: rgb(240, 157, 171);
-    font-family: Verdana, DejaVu Sans, sans-serif;
-}
-
-.num1and5 {
-    font-size: 15px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .num3 {
